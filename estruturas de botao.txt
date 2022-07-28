@@ -1,0 +1,7 @@
+item adicionado no dia 27/07/2022
+item modificado no dia 28/07/2022
+
+-criar estrutura de botão para login
+-criar estrutura de botão para promoções do dia
+-criar estrutura de botão para descobertas
+-criar estrutura de botão para perfil

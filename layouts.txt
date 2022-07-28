@@ -1,0 +1,9 @@
+item adicionado no dia 27/07/2022
+item modificado no dia 28/07/2022
+
+- layout de cabeçalho
+- layout para estruturas de botão
+- layout rodapé
+- layout quadros flutuantes
+- layout login screen
+- layout carrinho de compras
