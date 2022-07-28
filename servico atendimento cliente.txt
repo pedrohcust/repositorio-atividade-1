@@ -1,0 +1,11 @@
+item adicionado no dia 27/07/2022
+item modificado no dia 28/07/2022
+
+- desenvolvimento conexão e comunicação de serviço de atendimento ao cliente
+- rede de comunicação
+- estrutura telefone
+- estrutura celular
+- estrutura messenger site
+- estrutura whatsapp
+- estrutura e-mail
+- estrutura mensagens automáticas
