@@ -1,0 +1,7 @@
+item adicionado no dia 27/07/2022
+item modificado no dia 28/07/2022
+
+- desenvolver estrutura métodos de pagamento
+- possíveis cartões usados
+- possíveis parceiros para pagamento em boleto (pagseguro, paypall etc..)
+- pix para pagamentos instantâneos 
